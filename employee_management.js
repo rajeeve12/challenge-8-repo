@@ -43,3 +43,18 @@ function calculateTotalSalaryWithBonus() {
 }
 console.log(bonusSalary);
 
+//Task 5
+class newStructure {
+    constructor(Department, Employee){
+        this.Department = Department;
+        this.Employee = Employee;
+    }
+
+}
+engineering.addEmployee(alice);
+engineering.addEmployee(charlie);
+marketing.addEmployee(bob);
+marketing.addEmployee(diana);
+
+getDepartmentSalary();
+calculateTotalSalaryWithBonus();
