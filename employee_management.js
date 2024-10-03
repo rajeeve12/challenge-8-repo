@@ -14,3 +14,17 @@ console.log(`Total salary with bonuses for Engineering: $${engineering.calculate
 console.log(`Total salary for Marketing: $${marketing.getDepartmentSalary()}`);
 console.log(`Total salary with bonuses for Marketing: $${marketing.calculateTotalSalaryWithBonus()}`);
 
+//Task 2
+class Department {
+    constructor(name, Employee) {
+        this.name = engineering;
+        this.Employee = James;
+    }
+} 
+engineering.addEmployee(James);
+function getDepartmentSalary() {
+    const totalSalary = sales + Employee + Department;
+}
+return totalSalary;
+
+//Task 3
