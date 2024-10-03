@@ -35,3 +35,11 @@ class Manager {
     this.Bonus = Bonus;
 }
 }
+
+//Task 4
+function calculateTotalSalaryWithBonus() {
+    const bonusSalary = bonus + sales;
+    return bonusSalary;
+}
+console.log(bonusSalary);
+
