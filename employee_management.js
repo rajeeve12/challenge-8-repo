@@ -28,3 +28,10 @@ function getDepartmentSalary() {
 return totalSalary;
 
 //Task 3
+class Manager {
+    constructor(name, Employee, Bonus){
+    this.name = engineering;
+    this.Employee = James;
+    this.Bonus = Bonus;
+}
+}
